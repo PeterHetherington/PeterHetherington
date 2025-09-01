@@ -1,8 +1,15 @@
-## Hi there 👋
+## Hi, I'm Peter 👋
+
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterHetherington)](https://github.com/PeterHetherington/github-readme-stats) -->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterHetherington)](https://github.com/PeterHetherington/github-readme-stats) -->
+
+
+
+
 
 <!--
-**PeterHetherington/PeterHetherington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
