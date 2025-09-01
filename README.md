@@ -2,11 +2,9 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterHetherington)](https://github.com/PeterHetherington/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterHetherington&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&hide_rank=true)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterHetherington)](https://github.com/PeterHetherington/github-readme-stats) -->
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterHetherington&layout=compact)
 
 
 <!--
